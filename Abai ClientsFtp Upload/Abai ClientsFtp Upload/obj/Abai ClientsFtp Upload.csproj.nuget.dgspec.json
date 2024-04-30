@@ -1,0 +1,306 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Abai ClientsFtp Upload\\Abai ClientsFtp Upload.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Abai ClientsFtp Upload\\Abai ClientsFtp Upload.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Abai ClientsFtp Upload\\Abai ClientsFtp Upload.csproj",
+        "projectName": "Abai ClientsFtp Upload",
+        "projectPath": "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Abai ClientsFtp Upload\\Abai ClientsFtp Upload.csproj",
+        "packagesPath": "C:\\Users\\AA0506\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Abai ClientsFtp Upload\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AA0506\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Core\\Core.csproj"
+              },
+              "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Logic\\Logic.csproj": {
+                "projectPath": "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Logic\\Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\AA0506\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AA0506\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[14.0.7, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Infraestructure\\Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Infraestructure\\Infraestructure.csproj",
+        "projectName": "Infraestructure",
+        "projectPath": "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Infraestructure\\Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\AA0506\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AA0506\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.1.1, )"
+            },
+            "Google.Cloud.BigQuery.V2": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "WinSCP": {
+              "target": "Package",
+              "version": "[6.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Logic\\Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Logic\\Logic.csproj",
+        "projectName": "Logic",
+        "projectPath": "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Logic\\Logic.csproj",
+        "packagesPath": "C:\\Users\\AA0506\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AA0506\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Core\\Core.csproj"
+              },
+              "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Infraestructure\\Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\AA0506\\Documents\\WS\\Abai ClientsFtp Upload\\Infraestructure\\Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

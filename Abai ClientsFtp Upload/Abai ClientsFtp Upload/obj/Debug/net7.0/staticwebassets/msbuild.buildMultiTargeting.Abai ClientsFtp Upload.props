@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Abai ClientsFtp Upload.props" />
+</Project>

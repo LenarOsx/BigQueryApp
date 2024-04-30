@@ -1,0 +1,43 @@
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\appsettings.json
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\TEST BIG QUERY.exe
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\TEST BIG QUERY.deps.json
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\TEST BIG QUERY.runtimeconfig.json
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\TEST BIG QUERY.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\TEST BIG QUERY.pdb
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\Google.Api.Gax.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\Google.Api.Gax.Rest.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\Google.Apis.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\Google.Apis.Auth.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\Google.Apis.Bigquery.v2.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\Google.Apis.Core.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\Google.Cloud.BigQuery.V2.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\TEST BIG QUERY.csproj.AssemblyReference.cache
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\TEST BIG QUERY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\TEST BIG QUERY.AssemblyInfoInputs.cache
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\TEST BIG QUERY.AssemblyInfo.cs
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\TEST BIG QUERY.csproj.CoreCompileInputs.cache
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\TEST BIG QUERY.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\TEST BIG QUERY.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\staticwebassets\msbuild.TEST BIG QUERY.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\staticwebassets\msbuild.build.TEST BIG QUERY.props
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TEST BIG QUERY.props
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TEST BIG QUERY.props
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\scopedcss\bundle\TEST BIG QUERY.styles.css
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\TEST BIG QUERY.csproj.CopyComplete
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\TEST BIG QUERY.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\refint\TEST BIG QUERY.dll
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\TEST BIG QUERY.pdb
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\TEST BIG QUERY.genruntimeconfig.cache
+C:\Users\AA0506\Documents\WS\TEST BIG QUERY\obj\Debug\net7.0\ref\TEST BIG QUERY.dll

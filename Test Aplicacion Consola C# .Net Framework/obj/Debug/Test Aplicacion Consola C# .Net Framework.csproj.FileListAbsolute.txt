@@ -1,0 +1,48 @@
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\obj\Debug\Test Aplicacion Consola C# .Net Framework.csproj.AssemblyReference.cache
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\obj\Debug\Test Aplicacion Consola C# .Net Framework.csproj.SuggestedBindingRedirects.cache
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\obj\Debug\Test Aplicacion Consola C# .Net Framework.csproj.CoreCompileInputs.cache
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\log4net.config
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\Test_Aplicacion_Consola_C_.Net_Framework.exe.config
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\Test_Aplicacion_Consola_C_.Net_Framework.exe
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\Test_Aplicacion_Consola_C_.Net_Framework.pdb
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\log4net.dll
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.Buffers.dll
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.Memory.dll
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.Text.Json.dll
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.ValueTuple.dll
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\log4net.xml
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.Buffers.xml
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.Memory.xml
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.Text.Json.xml
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.ValueTuple.xml
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\obj\Debug\Test Aplicacion Consola C# .Net Framework.csproj.CopyComplete
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\obj\Debug\Test_Aplicacion_Consola_C_.Net_Framework.exe
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\obj\Debug\Test_Aplicacion_Consola_C_.Net_Framework.pdb
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\LanguageExt.Core.dll
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\LanguageExt.Core.xml
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\OpenPop.dll
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\OpenPop.xml
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\MailKit.dll
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\MimeKit.dll
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.Formats.Asn1.dll
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\MailKit.pdb
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\MailKit.xml
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\MailKit.dll.config
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\MimeKit.pdb
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\MimeKit.xml
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\MimeKit.dll.config
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\System.Formats.Asn1.xml
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\S22.Imap.dll
+C:\Users\AA0506\Documents\WS\Test Aplicacion Consola C# .Net Framework\bin\Debug\S22.Imap.xml

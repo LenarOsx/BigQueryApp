@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TEST BIG QUERY.props" />
+</Project>
